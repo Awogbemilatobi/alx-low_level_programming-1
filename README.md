@@ -12,7 +12,7 @@
 
 ## About
 
-- This repository consists of all the C programming projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) - now aquired by the **AFRICA LEADERSHIP GROUP**(ALG, ALX, ALU) by [Adewunmi Olade](https://www.github.com/Rachamv).
+- This repository consists of all the C programming projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) - now aquired by the **AFRICA LEADERSHIP GROUP**(ALG, ALX, ALU) by [Awogbemila Tobi](https://www.github.com/Rachamv).
 - All main.c files are prewritten by the school. We build functions that produce a specific output while also taking into consideration edge cases.
 
 ---
@@ -33,10 +33,8 @@
 
 
 ### Author
-- Adewunmi Oladele
-    - <a href="https://github.com/Rachamv">Github</a>
-    - <a href="https://www.linkedin.com/in/adewunmi-oladele-77a846215/">LinkedIn</a>
-    - <a href="https://www.linkedin.com/company/tnsquad/">Company</a>
+- Awogbemila Tobi
+    - <a href="https://github.com/Awogbemilatobi">Github</a>
         
 ---
 ### Acknowledgements  :pray:
